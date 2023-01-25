@@ -9,11 +9,11 @@ To file2 writes all mutually orthogonal squares of dimension N × N (and their n
 
 Matrix is represented as a list of rows (which are also lists), e.g.:
 
-[1,2,3,4,5]__
-[2,3,4,5,1]__
-[3,4,5,1,2]__
-[4,5,1,2,3]__
-[5,1,2,3,4]__
+[1,2,3,4,5]\
+[2,3,4,5,1]\
+[3,4,5,1,2]\
+[4,5,1,2,3]\
+[5,1,2,3,4]\
 
 is represented as:
 
