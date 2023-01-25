@@ -13,7 +13,7 @@ Matrix is represented as a list of rows (which are also lists), e.g.:
 [2,3,4,5,1]\
 [3,4,5,1,2]\
 [4,5,1,2,3]\
-[5,1,2,3,4]\
+[5,1,2,3,4]
 
 is represented as:
 
